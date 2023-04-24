@@ -68,7 +68,7 @@ button {
 }
 
 button:hover {
-    color: #3a3a3a;
+    color: #3a3A3a;
 }
 
 /* Heading */
@@ -160,11 +160,11 @@ ul li input[type=text] {
     display: none
 }
 
-ul li.editMode input[type=text] {
+ul li.edit-mode input[type=text] {
     display: inline-block;
     width: 224px
 }
 
-ul li.editMode label {
+ul li.edit-mode label {
     display: none;
 }
